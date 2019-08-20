@@ -31,5 +31,8 @@
     "python.pythonPath": "D:\\Software\\Python\\python.exe",
     "C_Cpp.default.cppStandard": "c++17",
     "C_Cpp.default.cStandard": "c99",
+    "files.associations": {
+        "vector": "cpp"
+    },
     
 }
